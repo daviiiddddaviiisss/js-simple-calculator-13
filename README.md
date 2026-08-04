@@ -1,2 +1,4 @@
-# js-simple-calculator-13
+# Js Simple Calculator 13
+
 Four-function inline calculator in JavaScript.
+
